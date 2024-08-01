@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ELmin Hasanov
+- 👋 Hi, I’m @Elmin Hasanov
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning HarvardX CS50x
 - ⚡ Fun fact: 100%
